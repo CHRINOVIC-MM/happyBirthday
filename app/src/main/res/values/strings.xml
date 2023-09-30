@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hello App</string>
+    <string name="phrase">My First Android App, my journey as android learner started here</string>
+    <string name="signaturre">Chrinovic MM</string>
+</resources>
